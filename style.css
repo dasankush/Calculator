@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -51,5 +53,17 @@ form input.equal{
     box-shadow: -8px -8px 15px rgba(233, 84, 16, 0.1), 5px 5px 15px rgb(5, 2, 0);
 }
 form input.operator{
+    color: #ff4f00;
+}
+.footer{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    justify-content: end;
+    margin-top: 12px;
+    font-family: 'Montserrat';
+}
+a{
+    text-decoration: none;
     color: #ff4f00;
 }
