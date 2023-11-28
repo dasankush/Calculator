@@ -22,12 +22,12 @@
 .calculator form input{
     border: 0;
     outline: 0;
-    width: 60px;
-    height: 60px;
+    width: 55px;
+    height: 55px;
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(47, 42, 59, 0.12), 5px 5px 15px rgba(0, 0, 0, 0.85);
     background: transparent;
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     cursor: pointer;
     margin: 9px;
