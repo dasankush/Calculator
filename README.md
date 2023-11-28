@@ -17,8 +17,7 @@ Check out the live demo of the Calculator [here](https://dasankush.github.io/Cal
 
 ## Screenshots
 
-![Calculator Screenshot](/Screenshot%202023-11-29%20010804.png)
-
+![Calculator Screenshot](Screenshot%202023-11-29%20010804.png)
 ## How to Use
 
 1. Simply visit the [live demo](https://dasankush.github.io/Calculator) link.
@@ -28,7 +27,6 @@ Check out the live demo of the Calculator [here](https://dasankush.github.io/Cal
 
 - HTML
 - CSS
-- JavaScript
 
 ## Feedback
 
