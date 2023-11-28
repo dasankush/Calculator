@@ -66,6 +66,12 @@ form input.equal{
     background-color: #ff4f00;
     box-shadow: -8px -8px 15px rgba(233, 84, 16, 0.1), 5px 5px 15px rgb(5, 2, 0);
 }
+form input.equal:active{
+    width: 145px;
+    color: white;
+    background-color: #ff4f00;
+    box-shadow: inset -8px -8px 15px rgba(233, 84, 16, 0.1), inset 5px 5px 15px rgb(5, 2, 0);
+}
 form input.operator{
     color: #ff4f00;
 }
