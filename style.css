@@ -15,9 +15,9 @@
     justify-content: center;
 }
 .calculator{
-    background-color: rgb(5, 3, 10);
+    background-color: #170f29;
     padding: 25px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 .calculator form input{
     border: 0;
@@ -25,7 +25,7 @@
     width: 55px;
     height: 55px;
     border-radius: 10px;
-    box-shadow: -8px -8px 15px rgba(47, 42, 59, 0.12), 5px 5px 15px rgba(0, 0, 0, 0.85);
+    box-shadow: -8px -8px 15px rgba(35, 28, 51, 0.9), 5px 5px 15px rgb(5, 4, 7, 0.8);
     background: transparent;
     font-size: 18px;
     color: white;
@@ -38,7 +38,7 @@
     width: 55px;
     height: 55px;
     border-radius: 10px;
-    box-shadow: inset -8px -8px 15px rgba(47, 42, 59, 0.12), inset 5px 5px 15px rgba(0, 0, 0, 0.85);
+    box-shadow: inset -8px -8px 15px rgba(47, 42, 59, 1), inset 5px 5px 15px rgba(0, 0, 0, 1);
     
     background: transparent;
     font-size: 18px;
