@@ -62,7 +62,7 @@ form .display input{
     box-shadow: none;
 }
 form input.equal{
-    width: 145px;
+    width: 130px;
     color: white;
     background-color: #ff4f00;
     box-shadow: -8px -8px 15px rgba(233, 84, 16, 0.1), 5px 5px 15px rgb(5, 2, 0);
