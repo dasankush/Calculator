@@ -9,7 +9,7 @@
 .container{
     width: 100vw;
     height: 100vh;
-    background-color: rgb(7, 4, 15);
+    background-color: #A7BCBF;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -25,7 +25,8 @@
     width: 55px;
     height: 55px;
     border-radius: 10px;
-    box-shadow: -8px -8px 15px rgba(35, 28, 51, 0.9), 5px 5px 15px rgb(5, 4, 7, 0.8);
+    box-shadow: -8px -8px 15px rgba(35, 28, 51, 0.9), 5px 5px 15px rgba(5, 4, 7, 0.8);
+    
     background: transparent;
     font-size: 18px;
     color: white;
